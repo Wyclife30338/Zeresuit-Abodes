@@ -1,8 +1,8 @@
 const houses = [
-  {id:1,title:'Modern 2BR Apartment',price:1200,img:'assets/house1.svg',beds:2,baths:1,area:'900 sqft',desc:'A bright modern apartment close to transit and shops.'},
-  {id:2,title:'Cozy Family House',price:1800,img:'assets/house2.svg',beds:3,baths:2,area:'1400 sqft',desc:'Spacious backyard and quiet neighborhood, great for families.'},
-  {id:3,title:'Downtown Loft',price:2300,img:'assets/house3.svg',beds:1,baths:1,area:'800 sqft',desc:'Loft-style apartment near restaurants and nightlife.'},
-  {id:4,title:'Suburban Townhouse',price:1450,img:'assets/house4.svg',beds:2,baths:2,area:'1100 sqft',desc:'Comfortable townhouse with garage and storage.'}
+  {id:1,title:'Modern 2BR Apartment',price:1200,img:'assets/house5.webp',beds:2,baths:1,area:'900 sqft',desc:'A bright modern apartment close to transit and shops.'},
+  {id:2,title:'Cozy Family House',price:1800,img:'assets/house6.webp',beds:3,baths:2,area:'1400 sqft',desc:'Spacious backyard and quiet neighborhood, great for families.'},
+  {id:3,title:'Downtown Loft',price:2300,img:'assets/house7.webp',beds:1,baths:1,area:'800 sqft',desc:'Loft-style apartment near restaurants and nightlife.'},
+  {id:4,title:'Suburban Townhouse',price:1450,img:'assets/house8.webp',beds:2,baths:2,area:'1100 sqft',desc:'Comfortable townhouse with garage and storage.'}
 ];
 
 function el(q){return document.querySelector(q)}
