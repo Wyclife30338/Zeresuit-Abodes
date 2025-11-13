@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Rentopa — Simple House Hunting Demo
 
 This folder contains a small static demo site for house hunting. Open `home.html` in a browser to view the site.
@@ -14,3 +15,7 @@ How to run:
 Notes:
 - This is a static demo: login/signup store demo users in `localStorage` only.
 - `house.html?id=#` shows house details for id 1-4.
+=======
+# Zeresuit-Abodes
+House hunting project 
+>>>>>>> fac58a91a7e9a7fff67e362834cc5accd9388b3c
