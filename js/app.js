@@ -64,7 +64,7 @@ function initAuthForms(){
       users.push(user);
       localStorage.setItem('rentopa_users',JSON.stringify(users));
       alert('Account created — you can now log in');
-      location.href='login.html';
+      location.href='home.html';
     });
   }
 
